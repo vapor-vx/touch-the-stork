@@ -1,6 +1,8 @@
 # Touch the Stork
 我在知乎的摸鹳提问
 
+![Logo](https://github.com/vapor-vx/touch-the-stork/raw/master/v2-4096107770e2c45059f8543d65018e93_xll.jpg)
+
 Introduction
 ==============
 摸鹳为亚文化另一小众分支，摸鹳内容主要指嘲讽纸糊鹳狸猿。以下列表是个人创作的，大部分曾经存在于纸糊的问题。大多为摸鹳提问，同时也包含少部分膜拜其他知乎用户的问题。
